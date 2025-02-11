@@ -1,4 +1,4 @@
-# Indian Market Portfolio Optimization
+# Finance Portfolio Optimization
 
 ## Overview
 This project implements a sophisticated machine learning-based portfolio optimization system specifically designed for the Indian stock market. It leverages advanced algorithms to analyze historical stock data, generate optimal portfolio weights, and provide comprehensive performance analytics. The system combines traditional financial metrics with modern machine learning techniques to create robust investment strategies tailored to the Indian market context.
@@ -251,14 +251,3 @@ OPTIMIZATION_CONFIG = {
 - Update documentation accordingly
 - Maintain backward compatibility
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Support
-For support and queries:
-- Create an issue in the repository
-- Email: support@portfolioopt.com
-- Documentation: https://docs.portfolioopt.com
-
-## Disclaimer
-This software is for educational and research purposes only. It does not constitute financial advice. Always conduct thorough research and consider consulting with financial professionals before making investment decisions. Past performance is not indicative of future results. The developers are not responsible for any financial losses incurred using this system.
